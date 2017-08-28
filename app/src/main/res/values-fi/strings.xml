@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EkaTesti</string>
+    <string name="hello_world">Moikka maailma!</string>
+    <string name="hello_world_land">Moikka vaakatasoinen maailma!</string>
+    <string name="another_string">Tässä toinen esimerkkiteksti.</string>
+</resources>
